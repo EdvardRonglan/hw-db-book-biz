@@ -1,0 +1,1 @@
+Entities:EditorsAuthorsBooksOrdersPublishersCustomersProperties:Editor_idEditor_nameAuthor_idAuthor_nameAuthor_royaltyISBNBook_namePublisher_idPublisher_nameGenreOrder_idCustomer_idCustomer_namePrimary keys:Editor_idAuthor_idISBNPublisher_idOrder_idCustomer_id
